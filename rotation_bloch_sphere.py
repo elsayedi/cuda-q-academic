@@ -4,7 +4,8 @@ from ipywidgets import interactive_output, widgets, HBox, VBox
 import numpy as np
 
 def create_rotation_visualization():
-    # Execute this cell to enable the interactive widget
+    # Execute this function to enable the interactive widget that shows the Bloch sphere and circuit diagram of
+    # a qubit that is rotated about the x, y, and z axes by given angles.
 
     # Kernel to initialize a qubit in the zero ket state and rotate it about the x, y, and z axis by given angles
     @cudaq.kernel
