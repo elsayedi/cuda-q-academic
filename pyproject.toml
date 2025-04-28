@@ -1,3 +1,4 @@
-name = "cuda-q-academic/interactive-tools"
+[project]
+name = "cqa-interactive-tools"
 version = "0.0.2"
 description = "Encapsulates several CUDA-Q Academic interactive tools"
