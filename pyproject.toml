@@ -1,0 +1,3 @@
+name = "cuda-q-academic/interactive-tools"
+version = "0.0.1"
+description = "Encapsulates several CUDA-Q Academic interactive tools"
